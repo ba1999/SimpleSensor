@@ -2,4 +2,7 @@
     <string name="app_name">SimpleSensor</string>
     <string name="resolution_value">%1$f rad/s</string>
     <string name="meas_range_value">%1$f rad/s</string>
+    <string name="no_permission">No Permission</string>
+    <string name="location_value">Latitude: %1$.4f\nLongitude: %2$.4f\nZeit:  %3$tr</string>
+    <string name="no_available_position">no Position</string>
 </resources>
