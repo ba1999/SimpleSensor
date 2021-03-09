@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SimpleSensor</string>
+    <string name="resolution_value">%1$f rad/s</string>
+    <string name="meas_range_value">%1$f rad/s</string>
 </resources>
